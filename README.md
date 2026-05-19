@@ -12,8 +12,6 @@ Previously: Business Intelligence Analyst at TDS Telecommunications. Before that
 
 **[Aether Ops](https://ai-service-now-vision.vercel.app/)** — AI-era governance for small, mid, and large enterprise. Request, approve, fulfill, audit. Built for the environments that actually run companies. Next.js + Postgres + Drizzle ORM. Full audit trail, API keys, webhook support, SOX-compliant export.
 
-**[NovaBoard](https://github.com/gwaghmar/novaboard)** — Multimodal AI business intelligence agent. Natural language to charts, tables, and insights over connected data sources.
-
 **[Legendary Investor UI](https://github.com/gwaghmar/legendary-investor-ui)** — Portfolio visualization and analysis dashboard. Study how the greats allocate.
 
 ---
