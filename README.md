@@ -10,9 +10,11 @@ Previously: Business Intelligence Analyst at TDS Telecommunications. Before that
 
 ## What I'm building
 
-**[Aether Ops](https://ai-service-now-vision.vercel.app/)** — AI-era governance for small, mid, and large enterprise. Request, approve, fulfill, audit. Built for the environments that actually run companies. Next.js + Postgres + Drizzle ORM. Full audit trail, API keys, webhook support, SOX-compliant export.
+**[graph-skill](https://www.npmjs.com/package/graph-skill)** — Installable graph engineering for Claude Code, Codex, OpenCode, and Cursor: dependency-graph execution with local caching, quality gates, selective retries, and live reports. Open source, published on npm. [Source →](https://github.com/gwaghmar/graph)
 
-**[Legendary Investor UI](https://github.com/gwaghmar/legendary-investor-ui)** — Portfolio visualization and analysis dashboard. Study how the greats allocate.
+**[Aether Ops](https://aetherops-govw.vercel.app/)** — AI-era governance for small, mid, and large enterprise. Request, approve, fulfill, audit. Built for the environments that actually run companies. Next.js + Postgres + Drizzle ORM. Full audit trail, API keys, webhook support, SOX-compliant export.
+
+**[Legendary Investor UI](https://moonmoney.vercel.app)** — Portfolio visualization and analysis dashboard. Study how the greats allocate.
 
 ---
 
